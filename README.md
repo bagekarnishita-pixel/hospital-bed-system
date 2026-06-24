@@ -16,7 +16,7 @@ LayerTechnologyFrontendHTML, CSS, JavaScriptBackendNode.jsDatabaseMySQLArchitect
 🚀 How to Run Locally
 
 Clone the repository
-bashgit clone https:
+bashgit clone https: https://github.com/bagekarnishita-pixel/hospital-bed-system
 
 Install backend dependencies
 bashnpm install
